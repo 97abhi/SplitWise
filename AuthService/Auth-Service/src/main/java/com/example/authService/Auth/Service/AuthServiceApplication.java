@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AuthServiceApplication {
 
 	public static void main(String[] args) {
-		System.out.println("the application is starting");
 		SpringApplication.run(AuthServiceApplication.class, args);
 	}
 
